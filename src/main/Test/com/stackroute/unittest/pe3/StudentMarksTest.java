@@ -1,3 +1,6 @@
+package com.stackroute.unittest.pe3;
+
+import com.stackroute.unittest.pe3.StudentMarks;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -12,7 +15,7 @@ public class StudentMarksTest {
 
     @Before
     public void setUp() throws Exception {
-        StudentMarks test=new StudentMarks();
+        com.stackroute.unittest.pe3.StudentMarks test=new StudentMarks();
     }
 
     @After
@@ -24,28 +27,17 @@ public class StudentMarksTest {
 
     @Test
     public void studentsTest(){
-
         StudentMarks test=new StudentMarks();
-
         int[] grades={12,23,46,78};
-
-    String s ="marks are valid";
-
-    assertEquals(s,test.checksValidMarks(4,grades));
-
-    }
+        String s ="marks are valid";
+        assertEquals(s,test.checksValidMarks(4,grades)); }
 
 
     @Test
     public void studentsTestFailure(){
-
         StudentMarks test=new StudentMarks();
-
         int[] grades={12,23,46,78};
-
         String s ="marks are not valid";
-
-        assertNotEquals(s,test.checksValidMarks(4,grades));
-    }
+        assertNotEquals(s,test.checksValidMarks(4,grades)); }
 
 }

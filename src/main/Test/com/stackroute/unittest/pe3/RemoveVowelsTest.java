@@ -1,3 +1,6 @@
+package com.stackroute.unittest.pe3;
+
+import com.stackroute.unittest.pe3.RemoveVowels;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -11,7 +14,7 @@ public class RemoveVowelsTest {
 
     @Before
     public void setUp() throws Exception {
-    RemoveVowels test = new RemoveVowels();
+    com.stackroute.unittest.pe3.RemoveVowels test = new RemoveVowels();
     }
 
     RemoveVowels RemoveVowels;

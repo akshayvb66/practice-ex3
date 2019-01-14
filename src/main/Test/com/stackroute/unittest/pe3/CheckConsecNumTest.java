@@ -1,3 +1,5 @@
+package com.stackroute.unittest.pe3;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -21,24 +23,13 @@ public class CheckConsecNumTest {
 
     @Test
     public void checkForConsec(){
-
         CheckConsecNum test = new CheckConsecNum();
-
         int[] arr={1,2,3,4,5,6,7};
-
-        assertEquals("true",test.ConsecNumbers(arr));
-
-    }
+        assertEquals("true",test.consecNumbers(arr)); }
 
     @Test
     public void checkForConsecFailure(){
-
         CheckConsecNum test = new CheckConsecNum();
-
         int[] arr={1,2,3,4,5,6,6};
-
-        assertNotEquals("true",test.ConsecNumbers(arr));
-
-
-    }
+        assertNotEquals("true",test.consecNumbers(arr)); }
 }

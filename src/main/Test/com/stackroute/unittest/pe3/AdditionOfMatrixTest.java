@@ -1,10 +1,11 @@
+package com.stackroute.unittest.pe3;
+
+import com.stackroute.unittest.pe3.AdditionOfMatrix;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
-
-import java.time.temporal.JulianFields;
 
 import static org.junit.Assert.*;
 
@@ -22,26 +23,19 @@ public class AdditionOfMatrixTest {
     }
 
     @Test
-    public void AddMatrixSuccess(){
+    public void addMatrixSuccess(){
         AdditionOfMatrix test= new AdditionOfMatrix();
-
-
     int[][] a= {{1,2},{3,4}};
     int[][] b={{1,2,3},{3,4}};
-
     int[][] c={{2,4},{6,8}};
-
 assertArrayEquals(c,test.sumOfMatrix(2,2,a,b));
     }
 
     @Test
-    public void AddMatrixFailure(){
+    public void addMatrixFailure(){
         AdditionOfMatrix test= new AdditionOfMatrix();
-
-
         int[][] a= {{1,2},{3,4}};
         int[][] b={{1,2},{3,4},{6,7}};
-
     assertNotEquals("size not equal",test.sumOfMatrix(2,2,a,b));
 
     }
