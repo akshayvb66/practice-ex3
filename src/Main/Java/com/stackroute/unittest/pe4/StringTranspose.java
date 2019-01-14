@@ -7,7 +7,7 @@
  */
 package com.stackroute.unittest.pe4;
 
-/**This class takes input string and reverses each word in the string
+/**Write a program to transpose the given string.
  *
  * @version 1.0 11-1-2018
  *

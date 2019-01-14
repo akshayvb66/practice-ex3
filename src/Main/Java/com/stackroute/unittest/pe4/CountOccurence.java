@@ -6,7 +6,7 @@
  * Stackroute
  */
 package com.stackroute.unittest.pe4;
-/**This class takes input string and counts number of times and each word had occured.
+/**Write a java program to count the total number of occurrences of a given character in a string without using any loop?
  *
  * @version 1.0 11-1-2018
  *

@@ -23,13 +23,13 @@ public class TestForStringTranspose {
        test= null; }
 
     @Test
-    public void testforTransposeSuccess(){
+    public void testForTransposeSuccess(){
         String s ="a quick brown fox jumps over the lazy dog";
         String s2= "a kciuq nworb xof spmuj revo eht yzal god ";
         assertEquals(s2,test.transposed(s)); }
 
     @Test
-    public void testforTransposeFailure(){
+    public void testForTransposeFailure(){
         String s ="a quick brown fox jumps over the lazy dog";
         assertNotEquals(null,test.transposed(s)); }
 }

@@ -2,39 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22949cd2-15e7-4efd-a90c-0b39c989daf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/CountOccurenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/CountOccurence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/ExtractFromPara.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/FindTheName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/MultipleOccurence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/ReplaceDWithF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/StringTranspose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/CheckTheName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/CountOccurenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/ExtractFromParaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/TestForMultipleOccurence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/TestForStringTranspose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/TestIfReplaceDWithF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/CountOccurence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/ExtractFromPara.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/FindTheName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/MultipleOccurence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/ReplaceDWithF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/StringTranspose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Test/CheckTheName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/CheckTheName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Test/CountOccurenceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Test/ExtractFromParaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/ExtractFromParaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Test/TestForMultipleOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForMultipleOccurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Test/TestForStringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForStringTranspose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Test/TestIfReplaceDWithF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestIfReplaceDWithF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForStringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForStringTranspose.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,26 +20,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+            <state relative-caret-position="135">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForStringTranspose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+            <state relative-caret-position="135">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -82,20 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/ExtractFromParaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -103,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestIfReplaceDWithF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="105">
               <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -113,10 +63,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="3" />
+              <caret line="8" column="121" selection-start-line="8" selection-start-column="121" selection-end-line="8" selection-end-column="121" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="116" selection-start-line="9" selection-start-column="116" selection-end-line="9" selection-end-column="116" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -127,35 +126,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForMultipleOccurence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="80" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,12 +164,15 @@
         <option value="$PROJECT_DIR$/src/Main/Test/TestForMultipleOccurence.java" />
         <option value="$PROJECT_DIR$/src/Main/Test/TestForStringTranspose.java" />
         <option value="$PROJECT_DIR$/src/Main/Test/TestIfReplaceDWithF.java" />
+        <option value="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/ExtractFromParaTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForMultipleOccurence.java" />
+        <option value="$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForStringTranspose.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java" />
-        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java" />
-        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java" />
       </list>
     </option>
   </component>
@@ -267,10 +244,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547209774603" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477665890" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PE5" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -386,24 +363,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_PE4 - 2019.01.11 at 17h 34m 22s.xml">
-      <configuration name="All in PE4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestForMultipleOccurence - 2019.01.11 at 17h 35m 51s.xml">
-      <configuration name="TestForMultipleOccurence" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestForMultipleOccurence - 2019.01.11 at 17h 36m 15s.xml">
-      <configuration name="TestForMultipleOccurence" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckTheName - 2019.01.11 at 17h 37m 25s.xml">
-      <configuration name="CheckTheName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountOccurenceTest - 2019.01.11 at 17h 38m 40s.xml">
-      <configuration name="CountOccurenceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExtractFromParaTest - 2019.01.11 at 17h 40m 11s.xml">
-      <configuration name="ExtractFromParaTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CheckTheName - 2019.01.11 at 17h 40m 40s.xml">
       <configuration name="CheckTheName" configurationId="JUnit" />
     </history-entry>
@@ -416,12 +375,29 @@
     <history-entry file="com_stackroute_unittest_pe4_in_PE4 - 2019.01.11 at 17h 44m 59s.xml">
       <configuration name="com.stackroute.unittest.pe4 in PE4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_stackroute_unittest_pe4_in_PE4 - 2019.01.11 at 17h 56m 59s.xml">
+      <configuration name="com.stackroute.unittest.pe4 in PE4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_stackroute_unittest_pe4_in_PE4 - 2019.01.11 at 17h 58m 10s.xml">
+      <configuration name="com.stackroute.unittest.pe4 in PE4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIfReplaceDWithF - 2019.01.11 at 17h 59m 22s.xml">
+      <configuration name="TestIfReplaceDWithF" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_stackroute_unittest_pe4_in_PE4 - 2019.01.11 at 17h 59m 27s.xml">
+      <configuration name="com.stackroute.unittest.pe4 in PE4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_stackroute_unittest_pe4_in_PE4 - 2019.01.11 at 18h 05m 02s.xml">
+      <configuration name="com.stackroute.unittest.pe4 in PE4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_stackroute_unittest_pe4_in_PE4 - 2019.01.14 at 20h 24m 23s.xml">
+      <configuration name="com.stackroute.unittest.pe4 in PE4" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27613726" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,7 +406,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,13 +428,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Main/Java/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/CountOccurenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/CheckTheName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -466,69 +435,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/CountOccurenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="355">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/ExtractFromParaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestIfReplaceDWithF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="105">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForMultipleOccurence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="80" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestIfReplaceDWithF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -537,15 +471,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Test/com/stackroute/unittest/pe4/TestForStringTranspose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+        <state relative-caret-position="135">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/CountOccurence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="121" selection-start-line="8" selection-start-column="121" selection-end-line="8" selection-end-column="121" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ReplaceDWithF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        <state relative-caret-position="135">
+          <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/ExtractFromPara.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -554,10 +508,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/StringTranspose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        <state relative-caret-position="135">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/FindTheName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="116" selection-start-line="9" selection-start-column="116" selection-end-line="9" selection-end-column="116" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/unittest/pe4/MultipleOccurence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

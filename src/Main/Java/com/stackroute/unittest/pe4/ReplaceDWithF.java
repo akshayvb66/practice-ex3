@@ -7,7 +7,7 @@
  */
 package com.stackroute.unittest.pe4;
 
-/**This class takes input string and replaces the d with f and l with t
+/**Write a program to replace all d with f and all l with t in the given String
  *
  * @version 1.0 11-1-2018
  *

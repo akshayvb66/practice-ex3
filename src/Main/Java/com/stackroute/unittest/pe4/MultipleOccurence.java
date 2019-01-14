@@ -10,7 +10,7 @@ package com.stackroute.unittest.pe4;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
-/**This class takes input string at which positions a particular string is there
+/**TWrite a program to find out the multiple occurrences of the given word in a string using Matcher methods.
  *
  * @version 1.0 11-1-2018
  *
